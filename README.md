@@ -92,7 +92,7 @@ The best method to add items line wise in a Scratch list is, save the textx, lin
 
 
  <h1 align="center">
-⭐<em> Pls Show Some Support by ⭐ Starring Some of the Repos!</em>⭐
+⭐<em> Pls Show Some Support by Starring Some of the Repos!</em>⭐
 </h1> 
 <h1 align="center">
     ❤️<em> Thank You </em>❤️
