@@ -49,8 +49,9 @@ There, in the Automatic button maker, you can add links to your button, but what
 
 ### This is the Syntax :
  
-```
  
+ 
+```
  <details><summary><button class="custom-btn btn-12">Expand</button></summary>
   
  [All text and contents here]
@@ -59,7 +60,8 @@ There, in the Automatic button maker, you can add links to your button, but what
  
 ```
  
- Use it to make your ***Read More*** button.
+ 
+ Use it to make your own ***Read More*** button.
  
 </details>
  
@@ -87,7 +89,36 @@ The best method to add items line wise in a Scratch list is, save the textx, lin
  There is a ![](https://img.shields.io/badge/%F0%9F%8C%8CGlitch%20Here!-PRs%20Welcome!-red.svg?style=for-the-badge) batch up on this page. There's a glitch. Will wait for responses on it!
  
 ## Contributors: 
-## License Terms:
+
+
+<style>
+body {margin:25px;}
+
+div.polaroid {
+  width: 35%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+</style>
+
+
+<div class="polaroid">
+  <img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico" alt="5 Terre" style="width:100%">
+  <div class="container">
+  <p><b><a href="https://github.com/SparkScratch-P" style="color:black;">SparkScratch-P</a></b></p>
+  </div>
+</div>
+
+
+## License :
+
+**GNU GPL 0.3**
 
 
 
@@ -98,7 +129,7 @@ The best method to add items line wise in a Scratch list is, save the textx, lin
     ❤️<em> Thank You </em>❤️
 </h1> 
 <h1 align="center">
-    https://sparkscratch-p.github.io/
+    <a href="https://sparkscratch-p.github.io/">https://sparkscratch-p.github.io/<a>
 </h1>
  
  
