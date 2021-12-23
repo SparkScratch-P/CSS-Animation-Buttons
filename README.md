@@ -39,7 +39,7 @@ An Awesome collection of buttons with impressive animations written in CSS; with
 
 ⚠️ Please don't edit, or attemp rename inline or file wise, until you are sure about the consequences!
  
- <a href="https://sparkscratch-p.github.io/CSS-Animation-Buttons/library/"><button class="custom-btn btn-12">Open Animated Buttons Maker</button></a>
+ <a href="https://sparkscratch-p.github.io/CSS-Animation-Buttons/animated-buttons-maker/"><button class="custom-btn btn-12">Open Animated Buttons Maker</button></a>
  
 ## Read More: Use it As `Expand` of HTML Summary!
 
@@ -50,7 +50,7 @@ There, in the Automatic button maker, you can add links to your button, but what
 
 ### This is the Syntax :
  
-```html
+```
  
  <details><summary><button class="custom-btn btn-12">Expand</button></summary>
   
