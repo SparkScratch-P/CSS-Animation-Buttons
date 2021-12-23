@@ -1,5 +1,4 @@
 
-
  <h1 align="center">
     <em> Welcome to the Amazing Collection of Animated buttons made with CSS !!!</em>
 </h1>
@@ -74,4 +73,33 @@ Contributions of all kinds will be accepted and well credited!
 
 ### Have made your own animation badge? Add it here!
 
- Firstly, if u have made one, fork this repo, and edit, and create a PR. I will be very glad to accept!
+Firstly, if u have made one, fork this repo, and edit, and create a PR. I will be very glad to accept! 
+
+ Now, your button needs to be added to the batch maker. 
+ 
+- Go to the[source code directory](https://github.com/SparkScratch-P/CSS-Animation-Buttons/tree/main/source%20code) and download the `.sb3` file.
+-  Add your CSS code to the list. Remember to add it line-wise. You should add thm to the list `Cascae Style Sheets`. 
+-  Now, add compatible HTML line in the list , `template button HTML attribute index`.
+-  Export with Turbowarp packager, keeping all parameters and activities same! Also upload your new scratch file to the source code folder, with the name, `css.sb3`.
+
+The best method to add items line wise in a Scratch list is, save the textx, line wise, i mean, copy-paste from your code, and same as `.txt`. Then right click to target list, and import!
+ 
+ There is a ![](https://img.shields.io/badge/%F0%9F%8C%8CGlitch%20Here!-PRs%20Welcome!-red.svg?style=for-the-badge) batch up on this page. There's a glitch. Will wait for responses on it!
+ 
+## Contributors: 
+## License Terms:
+
+
+
+ <h1 align="center">
+⭐<em> Pls Show Some Support by ⭐ Starring Some of the Repos!</em>⭐
+</h1> 
+<h1 align="center">
+    ❤️<em> Thank You </em>❤️
+</h1> 
+<h1 align="center">
+    https://sparkscratch-p.github.io/
+</h1>
+ 
+ 
+ 
