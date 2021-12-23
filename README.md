@@ -1,7 +1,12 @@
-<h1 align="center"> Welcome to the Amazing Collection of Animated buttons made with CSS !!!<h1> 
- 
 
- ###### An Awesome collection of buttons with impressive animations written in CSS; with a CSS writer made of Dynamic HTML where you can design with just basic parameters, without even knowing CSS!
+
+ <h1 align="center">
+    <em> Welcome to the Amazing Collection of Animated buttons made with CSS !!!</em>
+</h1>
+ 
+ 
+ 
+An Awesome collection of buttons with impressive animations written in CSS; with a CSS writer made of Dynamic HTML where you can design with just basic parameters, without even knowing CSS!
  
 
 
