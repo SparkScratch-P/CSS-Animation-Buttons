@@ -70,4 +70,8 @@ There, in the Automatic button maker, you can add links to your button, but what
  
 ## Contribution
  
-Prs
+Contributions of all kinds will be accepted and well credited! 
+
+### Have made your own animation badge? Add it here!
+
+ Firstly, if u have made one, fork this repo, and edit, and create a PR. I will be very glad to accept!
