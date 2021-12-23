@@ -1,7 +1,9 @@
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-*.js              text diff=js
-*.json            text diff=json
-*.css             text diff=css
-*.htm             text diff=html
-*.html            text diff=html
+*.js linguist-detectable=true
+*.js linguist-documentation=false
+*.json linguist-detectable=true
+*.json linguist-documentation=false
+*.css linguist-detectable=true
+*.css linguist-documentation=false
+
